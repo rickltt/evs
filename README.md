@@ -9,7 +9,9 @@ This repo includes various verbalziers in prompt-tuning, (based on [OpenPrompt](
 
 ## Usage
 
-```
+```shell
+# download datsets
+sh download.sh
 python train.py
 ```
 

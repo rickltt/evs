@@ -110,13 +110,13 @@ def main():
 
     parser.add_argument(
         "--model_type",
-        default='bert',
+        default='roberta',
         type=str,
         help="Select the model type selected to be used from bert, roberta, albert, now only support roberta."
     )
     parser.add_argument(
         "--model_name_or_path",
-        default='bert-base-uncased',
+        default='roberta-large',
         type=str,
         help="Path to pretrained model or shortcut name of the model."
     )
