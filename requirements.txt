@@ -1,0 +1,5 @@
+numpy==1.23.5
+openprompt==1.0.1
+torch==1.10.0
+tqdm==4.64.1
+transformers==4.24.0

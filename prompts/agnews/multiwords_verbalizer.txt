@@ -1,0 +1,4 @@
+politics,world
+sports,competition
+business,corporation
+technology,science 

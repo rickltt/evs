@@ -1,0 +1,2 @@
+bad,abysmal,adverse,alarming,angry,annoy,anxious
+good,absolutely,accepted,acclaimed,accomplish,accomplishment

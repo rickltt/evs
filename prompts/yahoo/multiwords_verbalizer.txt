@@ -1,0 +1,10 @@
+society,culture,civilization,philosophy,association,anthropology,guild
+science,mathematics,biology,mathematician,scientist,calculus,geometry
+health,disease,obesity,medicine,nutrition,well-being,exercise,welfare
+education,reference,denotation,pedagogy,referent,instruction,meaning
+computers,internet,calculator,machine,cyberspace,google,programmer
+sports,athletics,gymnastics,sportsman,competition,cycling,soccer
+business,finance,economics,fund,banking,occupy,bank,fussy,fancy
+entertainment,music,edutainment,piano,jazz,amusement,sound,television
+family,relationships,marriage,relation,household,kinship,friendship
+politics,government,governance,administration,law,democracy,aristotle
