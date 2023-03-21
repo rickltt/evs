@@ -13,6 +13,17 @@ This repo includes various verbalziers in prompt-tuning, (based on [OpenPrompt](
 python train.py
 ```
 
+## Yahoo Download
+
+You can download [Yahoo](https://www.heywhale.com/mw/dataset/5d9ff886037db3002d417c5f) dataset and get the compressed file `
+yahoo_answers_csv.tgz`.
+
+```sh
+tar -zxvf yahoo_answers_csv.tgz -C ./datasets
+cd datasets
+mv yahoo_answers_csv yahoo
+```
+
 ## Main APP
 | Arguments                | Description                                                  |
 | ------------------------ | ------------------------------------------------------------ |
