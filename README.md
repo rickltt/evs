@@ -26,7 +26,7 @@ cd datasets
 mv yahoo_answers_csv yahoo
 ```
 
-## Main APP
+## Train
 | Arguments                | Description                                                  |
 | ------------------------ | ------------------------------------------------------------ |
 | dataset                | The input dataset: agnews, dbpedia, amazon, yahoo, imdb                                     |
